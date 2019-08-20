@@ -1,4 +1,3 @@
-A sample command-line application.
+# Curso de Dart - Fernando Herrera
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+Este es el repositorio usado en la sección 10, también es un ejemplo de cómo se deben de subir los repositorios de Dart a GitHub y mantener su control de versiones. Incluyendo los archivos que debemos o que podemos ignorar.
